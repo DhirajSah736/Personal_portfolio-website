@@ -56,7 +56,7 @@ const Hero = () => {
             <div className="relative w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] md:w-[400px] md:h-[400px] rounded-full overflow-hidden border-4 border-gray-800">
               <div className="absolute inset-0 bg-gradient-to-br  z-10"></div>
               <img
-                src="public/image/PP-image.png"
+                src="/PP-image.png"
                 alt="Dhiraj Sah"
                 className="w-full h-full object-cover"
               />
