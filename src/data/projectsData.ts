@@ -23,13 +23,13 @@ export const projectsData: Project[] = [
   },
   {
     id: 3,
-    title: "Weather Forecast App",
-    description: "A mobile application that provides real-time weather updates and forecasts based on user location or search queries.",
+    title: "Weather Pulse",
+    description: "A Web application that provides real-time weather updates and forecasts based on user location or search queries.",
     image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    category: "mobile",
-    technologies: ["React Native", "Weather API", "Geolocation"],
-    githubUrl: "https://github.com/dhirajsah/weather-forecast",
-    liveUrl: "https://weather-forecast-demo.com"
+    category: "web",
+    technologies: ["React", "Weather API", "Geolocation"],
+    githubUrl: "https://github.com/DhirajSah736/Weather-pulse",
+    liveUrl: "https://weather-pulse-one.vercel.app/"
   },
   {
     id: 4,
