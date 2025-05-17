@@ -33,13 +33,13 @@ export const projectsData: Project[] = [
   },
   {
     id: 4,
-    title: "Sentiment Analysis Tool",
-    description: "A machine learning model that analyzes text data to determine sentiment and emotional tone in customer reviews.",
-    image: "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    category: "machine learning",
-    technologies: ["Python", "TensorFlow", "NLP", "Flask"],
-    githubUrl: "https://github.com/dhirajsah/sentiment-analysis",
-    liveUrl: "https://sentiment-analysis-demo.com"
+    title: "Sorting Visualizer",
+    description: "A web application that visually demonstrates how various sorting algorithms work through engaging, real-time animations and interactive controls.",
+    image: "https://images.pexels.com/photos/6539278/pexels-photo-6539278.jpeg",
+    category: "web",
+    technologies: ["React", "Vite", "Data Structure and Algorithms"],
+    githubUrl: "https://github.com/DhirajSah736/Sorting-Visualizer",
+    liveUrl: "https://sorting-visualizer-xi-eight.vercel.app/"
   },
   {
     id: 5,
