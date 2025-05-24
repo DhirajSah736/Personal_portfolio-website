@@ -9,7 +9,7 @@ Built with modern web technologies: **React**, **Vite**, **EmailJS**, and deploy
 
 ## 📸 Live Preview
 
-🌍 [Visit My Portfolio](https://your-deployed-link.vercel.app)  
+🌍 [Visit My Portfolio](https://www.dhirajsah99.com.np)  
 
 ---
 
@@ -29,3 +29,12 @@ Built with modern web technologies: **React**, **Vite**, **EmailJS**, and deploy
 - 📜 Resume download section
 - 📫 Contact form (Send me a message via EmailJS)
 - 🎨 Smooth animations and modern UI/UX
+
+## 🧑‍💻 Author
+
+Designed and developed with ❤️ by **Dhiraj Sah**
+
+- 🌐 [Portfolio](https://www.dhirajsah99.com.np)
+- 📧 eyemdheeraj436@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhiraj-sah-7a3522220/)
+- 🐙 [GitHub](https://github.com/DhirajSah736)

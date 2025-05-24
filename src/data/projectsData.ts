@@ -13,13 +13,13 @@ export const projectsData: Project[] = [
   },
   {
     id: 2,
-    title: "Task Management App",
+    title: "TaskNest-Task Management App",
     description: "A Kanban-style task management application that helps users organize and track their projects and tasks.",
     image: "https://images.pexels.com/photos/3243/pen-calendar-to-do-checklist.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     category: "web",
-    technologies: ["Vue.js", "Vuex", "Firebase"],
-    githubUrl: "https://github.com/dhirajsah/task-manager",
-    liveUrl: "https://task-manager-demo.com"
+    technologies: ["React", "Jwt Authentication", "Node.js"],
+    githubUrl: "https://github.com/DhirajSah736/TaskNest-A-task-manager-web-App",
+    liveUrl: "https://to-do-list-test-0kjw.onrender.com"
   },
   {
     id: 3,
