@@ -43,13 +43,13 @@ export const projectsData: Project[] = [
   },
   {
     id: 5,
-    title: "Fitness Tracking App",
+    title: "FitTrack- A Fitness Tracking App",
     description: "A mobile app that tracks workouts, nutrition, and progress towards fitness goals with personalized recommendations.",
     image: "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     category: "mobile",
     technologies: ["Flutter", "Firebase", "Health API"],
-    githubUrl: "https://github.com/dhirajsah/fitness-tracker",
-    liveUrl: "https://fitness-tracker-demo.com"
+    githubUrl: "https://github.com/DhirajSah736/FitTrack-A-fitness-tracking-web-app",
+    liveUrl: "https://fit-track-a-fitness-tracking-web-ap.vercel.app"
   },
   {
     id: 6,
