@@ -32,9 +32,9 @@ export const educationData: Education[] = [
     institution: "Delhi Public School - BPKIHS, Dharan, Nepal",
     description: "Focused on Physics, Chemistry, and Mathematics (PCM) with an inclination toward technology and innovation.",
     achievements: [
-      "Earned a certification in Digital Marketing and Personal Branding",
-      "Participated in multiple science exhibitions and expos",
-      "Represented the school as a volleyball player at the school level"
+      "Certified in Digital Marketing and Personal Branding, exploring the intersection of technology and communication",
+      "Participated in science exhibitions and expos, presenting projects on sustainable energy and innovative solutions",
+      "Represented the school in inter-school volleyball tournaments, demonstrating teamwork and discipline"
     ]
   },
   {
@@ -43,9 +43,9 @@ export const educationData: Education[] = [
     institution: "Bal Bikas English Boarding School, Nepal",
     description: "Attended from Nursery to Grade 10. Developed academic strength and leadership skills from an early age.",
     achievements: [
-      "Served as House Captain and Class Captain",
-      "Runner-up in an Inter-School Volleyball Competition",
-      "Actively involved in extracurricular activities and team-based initiatives"
+      "Served as House Captain and Class Captain, fostering leadership and team-building skills",
+      "Represented the school in inter-school volleyball tournaments; contributed to the team’s runner-up finish",
+      "Engaged in debates, science fairs, and community projects, strengthening problem-solving and collaboration skills"
     ]
   }
 ];
