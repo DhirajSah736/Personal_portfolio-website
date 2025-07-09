@@ -70,7 +70,7 @@ const Resume = () => {
                 <div>
                   <div className="flex justify-between items-start mb-1">
                     <h4 className="font-semibold text-lg">Volunteer Tech Tutor</h4>
-                    <span className="text-yellow-400 text-sm">Fall 2025</span>
+                    <span className="text-yellow-400 text-sm">Fall 2024</span>
                   </div>
                   <p className="text-gray-400 mb-2">Bal Bikas English Boarding School</p>
                   <ul className="space-y-2">
