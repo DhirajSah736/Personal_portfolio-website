@@ -44,7 +44,7 @@ const About = () => {
               </li>
               <li className="flex items-center">
                 <span className="w-1/3 text-gray-400">Frontend:</span>
-                <span className="w-2/3 text-gray-300">React, Vue.js, HTML5, CSS3, Tailwind CSS</span>
+                <span className="w-2/3 text-gray-300">React, Vite, HTML5, CSS3, Tailwind CSS</span>
               </li>
               <li className="flex items-center">
                 <span className="w-1/3 text-gray-400">Backend:</span>
@@ -52,7 +52,7 @@ const About = () => {
               </li>
               <li className="flex items-center">
                 <span className="w-1/3 text-gray-400">Databases:</span>
-                <span className="w-2/3 text-gray-300">MongoDB, PostgreSQL, MySQL, Redis</span>
+                <span className="w-2/3 text-gray-300">MongoDB, PostgreSQL, MySQL, NoSQL</span>
               </li>
               <li className="flex items-center">
                 <span className="w-1/3 text-gray-400">DevOps:</span>
