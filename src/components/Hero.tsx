@@ -68,6 +68,7 @@ const Hero = () => {
       
       <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
         <button 
+        aria-label="Scroll down to about section"
           onClick={() => {
             const about = document.getElementById('about');
             if (about) {
