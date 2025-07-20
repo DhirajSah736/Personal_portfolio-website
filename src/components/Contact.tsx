@@ -155,7 +155,9 @@ const Contact = () => {
                       href="https://www.linkedin.com/in/dhiraj-sah-7a3522220/" 
                       target="_blank" 
                       rel="noopener noreferrer"
+                      aria-label="Visit Dhiraj Sah's LinkedIn profile"
                       className="bg-gray-700 hover:bg-gray-600 p-3 rounded-full text-yellow-400 transition-colors duration-300"
+                      
                     >
                       <Linkedin size={20} />
                     </a>
@@ -163,6 +165,7 @@ const Contact = () => {
                       href="https://github.com/DhirajSah736" 
                       target="_blank" 
                       rel="noopener noreferrer"
+                      aria-label="Visit Dhiraj Sah's GitHub profile"
                       className="bg-gray-700 hover:bg-gray-600 p-3 rounded-full text-yellow-400 transition-colors duration-300"
                     >
                       <Github size={20} />
